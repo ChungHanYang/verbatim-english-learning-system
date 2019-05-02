@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433741437 source:c:\users\hank\desktop\countavr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
